@@ -75,27 +75,27 @@ const appConfig = {
 
   features: {
     
-    economy: true,                  
-    leveling: true,                 
+    economy: false,                  
+    leveling: false,                 
     moderation: true,               
     logging: true,                  
-    welcome: true,                  
+    welcome: false,                  
 
     tickets: true,                  
-    giveaways: true,                
-    birthday: true,                 
+    giveaways: false,                
+    birthday: false,                 
     counter: true,                  
 
     verification: true,             
-    reactionRoles: true,            
+    reactionRoles: false,            
     joinToCreate: true,             
 
-    voice: true,                    
+    voice: false,                    
     search: true,                   
     tools: true,                    
     utility: true,                  
-    community: true,                
-    fun: true,                      
+    community: false,                
+    fun: false,                      
 
     music: false,                   
   },
